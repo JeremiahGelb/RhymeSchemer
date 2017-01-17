@@ -26,32 +26,57 @@ Either enter p to generate another poem, or q to quit.
 p for poem , q for quit: p
 How many lines should the poem be? (<= maxlines)  : 9
 Line 1, Syllables then rhyme word: 
+
 1 duck
+
 Line 2, Syllables then rhyme word: 
+
 2 duck
+
 Line 3, Syllables then rhyme word: 
+
 3 duck
+
 Line 4, Syllables then rhyme word: 
+
 4 duck
+
 Line 5, Syllables then rhyme word: 
+
 5 duck
+
 Line 6, Syllables then rhyme word: 
+
 6 duck
+
 Line 7, Syllables then rhyme word: 
+
 7 duck
+
 Line 8, Syllables then rhyme word: 
+
 8 duck
+
 Line 9, Syllables then rhyme word: 
+
 9 duck
 
 STRUCK 
+
 AND STRUCK 
+
 THE EUNUCH 
+
 ALSO WILL PLUCK 
+
 TO SEE THE SON SUCK 
+
 LIE NOT BEEN AN EUNUCH 
+
 HER AND SAY WHEN I WILL PLUCK 
+
 AND SHALL SCOFF AT ONCE BUT ZADOK 
+
 AWAY THE COMMON BREAD AND BARAK 
 
 p for poem , q for quit: q
