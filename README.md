@@ -1,3 +1,5 @@
+This is a project I made for fun after my first C class in school. It's pretty cool, but I wasted a lot of memory! (oops) Perhaps one day I will re-implement this a little better in c++.
+
 # RhymeSchemer
 Markov Chain based rhyming poetry generator
 
